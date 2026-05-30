@@ -176,10 +176,10 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Suryansh Chandel**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/suiiryansh
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/suiiryansh
 
 Feel free to fork this repository, submit pull requests, or suggest improvements.
